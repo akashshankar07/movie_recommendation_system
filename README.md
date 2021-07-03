@@ -10,6 +10,9 @@ The following will be done:
 
 1. Exploratory Data Analysis(EDA)
 2. Building Recommendation System
-  a. Memory-based Colloborative Filtering
-  b. Content based Recommender System - with the Tfidf algorithm
-  c. SVD Model
+
+          a. Memory-based Colloborative Filtering
+
+          b. Content based Recommender System - with the Tfidf algorithm
+
+          c. SVD Model
